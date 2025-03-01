@@ -31,7 +31,7 @@
 
 ### 🔹 Generative AI for Image & Text Creation 🎨
 
-- Fine-tuned **Stable Diffusion** for **high-resolution AI-generated images**
+- Fine-tuned **Stable Diffusion** for **high-resolution AI-generated images** 
 - Pioneered **text-to-image synthesis** for next-gen creative AI applications
 
 ## 🎖️ Certifications & Achievements
